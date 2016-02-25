@@ -1,15 +1,11 @@
-*~
-*.swp
-.DS_Store
-*.swo
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
 node_modules/
-.sass-cache/
-npm-debug.log
-.grunt/
-_SpecRunner.html
-reports/
-coverage/
-._*
-
-#PhpStorm IDE
-.idea/
+bin/
+obj/
+.vs/
